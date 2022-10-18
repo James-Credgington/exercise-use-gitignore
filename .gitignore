@@ -1,1 +1,9 @@
 node_modules/
+# All files starting with letter z
+z.*
+
+# Ignores file called .env
+ *.env
+ 
+#  Ignores top level directory name dartifacts
+ /artifacts/
